@@ -3,6 +3,8 @@ target/
 .mvn/
 .mnvw
 mnvw.cmd
+.mnvw/
+mnvw.cmd/
 pom.xml
 
 src/test/
